@@ -1,0 +1,1 @@
+export const API_HOST_URL = 'http://apptus-dev.ap-south-1.elasticbeanstalk.com';//'http://localhost:8090';

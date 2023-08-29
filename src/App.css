@@ -1,0 +1,57 @@
+.cl-p-2{
+    padding: 8px;
+}
+.cl-py-2{
+    padding: 8px 0;
+}
+.cl-p-4{
+    padding: 16px;
+}
+.cl-py-4{
+    padding: 16px 0;
+}
+.cl-m-2{
+    padding: 8px;
+}
+.cl-my-2{
+    padding: 8px 0;
+}
+.cl-mb-2{
+    margin-bottom: 8px;
+}
+.cl-mb{
+    margin-bottom: 4px;
+}
+.cl-d-none{
+    display: none;
+}
+.cl-text-gray{
+    color: #808080!important;
+}
+.cl-notification-container{
+    right: 10px;
+    text-align: right;
+    opacity: .9;
+}
+.cl-text-center{
+    text-align: center;
+}
+.cl-text-error{
+    color: red
+}
+.cl-text-capitalize, .cl-text-capitalize .slds-form-element__label{
+    text-transform: capitalize;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li::before {
+    content: "\2022";
+    color: black;
+    font-weight: bolder;
+    display: inline-block; 
+    width: 1em;
+    font-size: 15px;
+}
